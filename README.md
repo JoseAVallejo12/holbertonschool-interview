@@ -1,4 +1,4 @@
-<h1><img src="https://img.icons8.com/ios-filled/60/000000/machine-learning.png"/> Specializations - Web Stack programming ― holbertonschool-interview</h1>
+<h1><img src="https://img.icons8.com/ios-filled/60/000000/machine-learning.png"/> Specializations - Web Stack programming― holbertonschool-interview</h1>
 
 <p><img src="https://img.icons8.com/ios-filled/14/000000/user-male-circle.png"/> Jose Alfredo Vallejo Contreras</p>
 
