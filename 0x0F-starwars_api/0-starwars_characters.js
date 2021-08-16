@@ -20,6 +20,7 @@ function requestCharacter (url) {
 function requestApi () {
   const url = `https://swapi-api.hbtn.io/api/films/${process.argv[2]}`;
   request(url, async (error, response, body) => {
+    error && new Error(error.message);
     const { characters } = JSON.parse(body);
     for (const index in characters) {
       await requestCharacter(characters[index])
