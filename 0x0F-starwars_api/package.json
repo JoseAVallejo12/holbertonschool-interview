@@ -5,12 +5,16 @@
   "main": "0-starwars_characters.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./0-starwars_characters.js 3"
+    "start": "node ./0-starwars_characters.js 3",
+    "style": "semistandard --fix"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "semistandard": "^16.0.1"
   }
 }
